@@ -1,0 +1,24 @@
+Descriptions of section entries:
+
+	M: Maintainer: FullName <address@domain>
+	R: Designated reviewer: FullName <address@domain>
+	S: Status (Supported, Maintained, Odd Fixes, Orphan)
+	F: Files and directories
+
+SYSINFO C TOOL
+M:	Anne NICOLAS <anicolas@ossflow.fr>
+S:	Maintained
+F:	src/
+F:	Makefile
+
+MYSYSTEM PYTHON SCRIPT
+M:	Anne NICOLAS <anicolas@ossflow.fr>
+S:	Maintained
+F:	script/mysystem/
+
+DOCUMENTATION
+M:	Anne NICOLAS <anicolas@ossflow.fr>
+S:	Maintained
+F:	docs/
+F:	mkdocs.yml
+F:	README.md
